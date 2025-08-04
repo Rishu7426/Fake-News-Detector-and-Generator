@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+datasets
+evaluate
+scikit-learn
